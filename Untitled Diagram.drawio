@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T07:20:00.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="F0sEFj97cNhIJ9_QNiqC" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T07:21:04.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fDmIRmLh-e39NhhRa-R2" version="24.4.13" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="361" dy="203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="882" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,10 +157,10 @@
         <mxCell id="2BhAEiJIrA0CoBpiV1EB-26" value="StockID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="510" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2BhAEiJIrA0CoBpiV1EB-27" value="InvoiceNo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2BhAEiJIrA0CoBpiV1EB-27" value="ProductID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="520" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2BhAEiJIrA0CoBpiV1EB-28" value="InvoiceDate" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2BhAEiJIrA0CoBpiV1EB-28" value="Quantity" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="550" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2BhAEiJIrA0CoBpiV1EB-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="2BhAEiJIrA0CoBpiV1EB-26">
